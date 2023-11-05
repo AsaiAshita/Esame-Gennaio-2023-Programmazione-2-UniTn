@@ -1,5 +1,5 @@
 # Esame-Gennaio-2023-Programmazione-2-UniTn
-Soluzione per l'esame di gennaio 2023 per il corso di Programmazione 2 tenuto dal Prof. Ronchetti dell'A.A 21/22 presso l'Università di Trento e appartenente alla laurea triennale in Informatica.
+Soluzione per l'esame di gennaio 2023 per il corso di Programmazione 2 tenuto dal Prof. Ronchetti nell'A.A 21/22 presso l'Università di Trento e appartenente alla laurea triennale in Informatica.
 
 In questa repository trovate il codice dell'esame ed il testo dell'appello interessato.
 

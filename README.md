@@ -10,5 +10,6 @@ Aggiungo inoltre che il mio codice non è:
    1. il miglior codice esistente per risolvere questo problema (già detto prima, ma repetita iuvant);
    1. molto chiaro (ho la brutta tendenza a non mettere commenti e a non usare nomi molto significativi per le variabili [I know, it's a mortal sin];
 <a/>
+
 dunque la sua lettura potrebbe risultare non immediata e potreste metterci un po' a capire chi fa cosa (o magari queste sono tutte mie fisime, ma, se trovate che le cose siano effettivamente così, non dite che non ve lo avevo detto).
 
